@@ -1,0 +1,58 @@
+body{
+    background: rgb(9,9,121);
+background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(93,0,147,1) 50%);
+    margin: 10px;
+    color: white;
+    height: 2000px;
+}
+h2{
+    padding-top: 10px;
+    margin: 0px;
+}
+.a{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.f{
+    margin-left: 30%;
+    border-radius: 10px;
+    background: rgb(9,9,181);
+background: linear-gradient(90deg, rgba(9,9,181,1) 0%, rgba(93,0,220,1) 50%);
+    height: 550px;
+    width: 500px;
+
+}
+.input1{
+    border-radius: 10px;
+    height: 25px;
+    width: 300px;
+    margin: 10px 0px 10px 0px;
+    border: white solid 3px ;
+    background: rgb(0, 0, 0, 0);
+}
+.i1{
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.area{
+    border-radius: 10px;
+    height: 150px;
+    width: 300px;
+    margin-bottom: 10px;
+    border: white solid 3px ;
+    background: rgb(0, 0, 0, 0);
+}
+.input3{
+    background: rgb(8,4,130);
+background: linear-gradient(90deg, rgba(8,4,130,1) 0%, rgba(166,0,255,1) 50%);
+    border-radius: 4px;
+    width: 50px;
+}
+img{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-top: 0;
+    padding: 10px;
+    width: 50px;
+}
